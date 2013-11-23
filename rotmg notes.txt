@@ -1,0 +1,7 @@
+events (from ez to hard):
+- penteract (solo)
+- lord (healer)
+- sphinx (healer)
+- hermit (healer)
+- cube (army)
+- skull shrine (army)

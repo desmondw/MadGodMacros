@@ -1,0 +1,4 @@
+=== [KINO] ===                    B> bbow or vit [6def]
+=== [KINO] ===                    S>spd[4:1]                          or [2:1] atk                           or [4:3] dex
+=== [KINO] ===                    B>vit[4:5]                        B>atk[2:1]                    B>dex[3:1]
+=== [KINO] ===                    S>fey--vbow                      S>master--dhide                       S>sup def--horror
